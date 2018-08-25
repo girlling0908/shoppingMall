@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [16/Aug/2018:08:03:28 +0800] "GET / HTTP/1.1" 200 103187 http-bio-8082-exec-7 1965
+0:0:0:0:0:0:0:1 - - [16/Aug/2018:08:03:28 +0800] "GET /js/global_index.js HTTP/1.1" 304 - http-bio-8082-exec-5 93
+0:0:0:0:0:0:0:1 - - [16/Aug/2018:08:03:28 +0800] "GET /js/jquery-1.4.2.min.js HTTP/1.1" 304 - http-bio-8082-exec-6 104
+0:0:0:0:0:0:0:1 - - [16/Aug/2018:08:03:28 +0800] "GET /js/e3mall.js HTTP/1.1" 304 - http-bio-8082-exec-6 1
+0:0:0:0:0:0:0:1 - - [16/Aug/2018:08:03:28 +0800] "GET /js/jquery.cookie.js HTTP/1.1" 304 - http-bio-8082-exec-4 187
