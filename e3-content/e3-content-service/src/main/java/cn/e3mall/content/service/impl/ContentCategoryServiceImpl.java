@@ -23,6 +23,9 @@ public class ContentCategoryServiceImpl implements ContentCategoryService {
 	int a=2;
 	int b=3;
 
+    int a=1;
+	int b=1;
+	int c=1;
 	public List<EasyUITreeNode> getContentCatList(Long parentId) {
 
 		TbContentCategoryExample example = new TbContentCategoryExample();
