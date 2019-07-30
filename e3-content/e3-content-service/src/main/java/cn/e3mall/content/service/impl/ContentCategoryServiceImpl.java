@@ -21,6 +21,9 @@ public class ContentCategoryServiceImpl implements ContentCategoryService {
 	@Autowired
 	private TbContentCategoryMapper contentCatMapper;
 
+    int a=1;
+	int b=1;
+	int c=1;
 	public List<EasyUITreeNode> getContentCatList(Long parentId) {
 
 		TbContentCategoryExample example = new TbContentCategoryExample();
